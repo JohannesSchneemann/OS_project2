@@ -1,0 +1,8 @@
+TX 29
+CA 40
+WA 7
+AZ 7
+TN 6
+NY 20
+FL 21
+OK 4
